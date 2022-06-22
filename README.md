@@ -89,6 +89,7 @@ Screenshot 1 : <br>
  
 * [Angular](https://angular.io/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [JavaScript](https://www.javascript.com/)
 * [CSS](https://css.org/)
 * [Bootstrap](https://getbootstrap.com/)
  
