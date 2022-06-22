@@ -228,7 +228,7 @@ Project Link: [https://github.com/OneEyeX/News-Website](https://github.com/OneEy
 [stars-url]: https://github.com/OneEyeX/News-Website/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/OneEyeX/News-Website/issues
-[license-shield]: https://img.shields.io/github/license/OneEyeX/News-Website/blob/main.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/OneEyeX/News-Website.svg?style=for-the-badge
 <!-- [license-url]: https://github.com/OneEyeX/News-Website/LICENSE.md -->
 [license-url]: https://github.com/OneEyeX/News-Website/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
