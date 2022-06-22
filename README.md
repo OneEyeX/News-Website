@@ -65,11 +65,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Screenshot 1 : <br> 
+<br> <b> Screenshot 1 : </b> <br>
 
 [![News Website Screen Shot][product-screenshot-1]](src/favicon.ico)
 
-<br> Screenshot 2 : <br> 
+<br> <b> Screenshot 2 : </b> <br>
 
 [![News Website Screen Shot][product-screenshot-2]](src/favicon.ico)
 
