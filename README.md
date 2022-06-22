@@ -74,7 +74,7 @@ Screenshot 1 : <br>
 [![News Website Screen Shot][product-screenshot-2]](src/favicon.ico)
 
 <br> <b> Screenshot 3 : </b> <br>
-<p>Modify the <b> newsapiservices.service.ts </b> file and put you API key where it's mentioned in picture below:
+<p>Modify the <b> newsapiservices.service.ts </b> file and put you API key where it's mentioned in picture below :
 </p>
 
 [![News Website Screen Shot][product-screenshot-3]](src/favicon.ico)
