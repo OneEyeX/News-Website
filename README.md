@@ -229,7 +229,8 @@ Project Link: [https://github.com/OneEyeX/News-Website](https://github.com/OneEy
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/OneEyeX/News-Website/issues
 [license-shield]: https://img.shields.io/github/license/OneEyeX/News-Website.svg?style=for-the-badge
-[license-url]: https://github.com/OneEyeX/News-Website/LICENSE.md
+<!-- [license-url]: https://github.com/OneEyeX/News-Website/LICENSE.md -->
+[license-url]: https://github.com/OneEyeX/News-Website/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
 [product-screenshot-1]: screenshots/1.png
